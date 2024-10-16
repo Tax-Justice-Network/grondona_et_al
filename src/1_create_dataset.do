@@ -30,6 +30,8 @@
 ********************************************************************************
 glo dir "`c(pwd)'/.."
 glo data "${dir}/data"
+cap mkdir "${data}/intermediate"
+cap mkdir "${data}/final"
 glo output "${dir}/output"
 glo src "${dir}/src"
 
