@@ -6,7 +6,7 @@
 ********************************************************************************
 * Author: Alison Schultz
 * Created: 6 December 2023
-* Last updated: 16 October 2024
+* Last updated: 17 November 2024
 
 ** Description:
 * - This DoFile is the first of three relevant files to replicate the work pre-
@@ -22,8 +22,16 @@
 
 ** Outline of this Do-File:
 * 1. Merge data on countries' financial secrecy with bilateral macroeconomic flow data
+*    1.1 Data on secrecy scores
+*    1.2 Bilateral macroeconomic flow data
+*    1.3. Other relevant data
+*    1.4 Merge datasets
 * 2. Calculate country-level vulnerability, exposure, and contribution to different
 *    macroeconomic channels
+*    2.1 Create bilateral dataset with vulnerability, exposure, and contribution
+*    2.2 Create dataset with vulnerability, exposure, and contribution per reporting country
+*    2.3 Create dataset with vulnerability, exposure, and contribution in long format including regional and global averages
+
 
 ********************************************************************************
 * O. Specify revelant paths
