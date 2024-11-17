@@ -6,7 +6,7 @@
 ********************************************************************************
 * Author: Alison Schultz
 * Created: 6 December 2023
-* Last updated: 16 October 2024
+* Last updated: 17 November 2024
 
 ** Description:
 * - This DoFile is the second of three relevant files to replicate the work pre-
@@ -23,10 +23,13 @@
 ** Outline of this Do-File:
 * 1. Generate results on vulnerability and exposure for all countries
 *    1.1 Vulnerability 2020
-*    1.2 Exposure 202
+*    1.2 Exposure 2020
+*    1.3 Intensity 2020
 * 2. Generate country-specific results on vulnerability, exposure, and partner
 *    countries' contribution to IFF risks
-*    1.1 
+*    2.1 Brasil
+*    2.2 Indonesia
+*    2.3 Nigeria
 
 ********************************************************************************
 * O. Specify revelant paths
