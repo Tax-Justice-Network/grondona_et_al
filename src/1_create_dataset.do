@@ -378,7 +378,7 @@ save "${data}/final/iff_risk_reportingcountry.dta", replace
 export delimited "${data}/final/iff_risk_reportingcountry.csv", replace 
 
 
-* 2.2 Create dataset with vulnerability, exposure, and contribution in long format
+* 2.3 Create dataset with vulnerability, exposure, and contribution in long format
 *     including regional and global averages
 ********************************************************************************
 
