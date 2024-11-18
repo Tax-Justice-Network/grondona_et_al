@@ -18,6 +18,9 @@ The assessment combines country-level data on countries' financial secrecy with 
   
     ![image](https://github.com/user-attachments/assets/77a9b48e-f3df-4283-83d0-d0ca15b38ac4)
 
-- Contribution of partner country j to vulnerability of country i in channel k: Share of country i's vulnerability in channel k that partner country j is responsible for. 
+- Secrecy risk contribution of partner country j to vulnerability of country i in channel k: Proportion of the total IFF risk that partner country j contributes to country i in a specific channel k. We combine the 𝑠𝑒𝑐𝑟𝑒𝑐𝑦 𝑟𝑖𝑠𝑘𝑗 of partner country j with the bilateral transaction volume between country i and partner country j in channel k using a cubic root formula. This formula has the advantage of exploiting the variance in both the risk and the transaction components while avoiding one of them dominating the other.
+
+    ![image](https://github.com/user-attachments/assets/40727c51-960c-46af-904e-bf3a34fe8674)
+
 
 
