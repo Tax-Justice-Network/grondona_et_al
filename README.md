@@ -10,7 +10,7 @@ The assessment combines country-level data on countries' financial secrecy with 
   
     ![image](https://github.com/user-attachments/assets/1a19530a-c240-4d09-b973-c74e9375956c)
 
-- Intensity of channel k in country i: Relevance of channel k for a country i's economy, defined as the transaction volume in a channel divided by the country's GDP.
+- Intensity of channel k in country i (not explicitly mentioned in paper): Relevance of channel k for a country i's economy, defined as the transaction volume in a channel divided by the country's GDP. While this concept is not explicitly mentioned in the paper, it is the basis for the following concept of "exposure" and part of the code in this repository.
   
     ![image](https://github.com/user-attachments/assets/97a77520-4d23-4b5e-bf90-b8a4dd32e0af)
 
